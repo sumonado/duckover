@@ -1,0 +1,2 @@
+# duckover
+DuckStation Cover Downloader
