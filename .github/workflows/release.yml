@@ -48,4 +48,4 @@ jobs:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./bin/duckover.exe
         asset_name: duckover.exe
-#       asset_content_type: application/zip
+        asset_content_type: application/vnd.microsoft.portable-executable
