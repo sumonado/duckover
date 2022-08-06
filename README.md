@@ -13,6 +13,8 @@ Included providers:
 
 - **PSXDataCenter** - (psxdatacenter.com)
 
+![duckover logo](.assets/duckover.png)
+
 ## License
 
 [MIT](LICENSE.md)
